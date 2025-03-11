@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔵 About Me:
 👀 I’m interested in Linnux,FOSS,Computers,Machines,travelling,Theatre arts,movies,animes,F1,music and cultural histories.<br>🌱 I’m currently learning about Linux, Full-stack web developement, Embedded systems, Cyber security & ML.<br>💞️ I’m looking to collaborate on Open source projects and developments
 
 
