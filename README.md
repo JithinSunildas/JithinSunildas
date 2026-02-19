@@ -3,7 +3,7 @@
 * **Interests:** Mathematics, FOSS, Operating Systems, Biomimetic Technology
 * **Learning:** Autonomous Systems, Category Theory
 * **Side Hustle:** Backend Development, Web Development, Flutter App Development
-* **Looking To:** Collaborate on pen-source Systems Programming Projects
+* **Looking To:** Collaborate open-source Systems Programming Projects
 * **Personal Interests:** Theater, F1 and Cultural History buff
 
 ---
