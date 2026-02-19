@@ -39,16 +39,6 @@
 # ⬜️ GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinSunildas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook" alt="Top Languages" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=JithinSunildas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=JithinSunildas&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </div>
