@@ -1,10 +1,10 @@
 # ⬜️ About Me
 
-* **Interests:** FOSS, Operating Systems, Biomimetic Technology
-* **Learning:** Kernels, Autonomous Systems
+* **Interests:** Mathematics, FOSS, Operating Systems, Biomimetic Technology
+* **Learning:** Autonomous Systems, Category Theory
 * **Side Hustle:** Backend Development, Web Development, Flutter App Development
 * **Looking To:** Collaborate on open-source projects
-* **Personal Interests:** Theater, F1, and Cultural History buff
+* **Personal Interests:** Theater, F1 and Cultural History buff
 
 ---
 
