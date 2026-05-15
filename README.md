@@ -1,7 +1,7 @@
 # ⬜️ About Me
 
-* **Interests:** Mathematics, FOSS, Operating Systems, Biomimetic Technology
-* **Learning:** Autonomous Systems, Category Theory
+* **Interests:** Mathematics, FOSS, Operating Systems, Cybersecurity, Biomimetic Technology
+* **Learning:** Autonomous Systems, Embedded Systems
 * **Side Hustle:** Backend Development, Web Development, Flutter App Development
 * **Looking To:** Collaborate on open-source Systems Programming Projects
 * **Personal Interests:** Theater, F1 and Cultural History buff
